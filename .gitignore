@@ -1,0 +1,35 @@
+# =========================
+# FRONTEND (React)
+# =========================
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.env.local
+frontend/.cache/
+
+# =========================
+# BACKEND (Spring Boot)
+# =========================
+backend/target/
+backend/.gradle/
+backend/build/
+backend/*.jar
+backend/*.war
+backend/*.log
+
+# =========================
+# GENERAL
+# =========================
+node_modules/
+build/
+*.log
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Environment files
+.env
